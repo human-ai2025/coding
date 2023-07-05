@@ -1,7 +1,7 @@
 import sys
 from os import path
 
-FILE = False # if needed change it while submitting
+FILE = True # if needed change it while submitting
 
 if FILE:
     sys.stdin = open('input.txt', 'r')
