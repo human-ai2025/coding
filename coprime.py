@@ -61,3 +61,12 @@ def main():
 if __name__ == "__main__":
     main()
     
+
+
+
+
+
+
+
+
+#https://codeforces.com/contest/1742/problem/D

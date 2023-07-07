@@ -21,3 +21,8 @@ class Solution:
 
     def subarrayGCD(self, nums: List[int], k: int) -> int:
         return self.approach1(nums, k)
+    
+
+
+
+# https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/description/
